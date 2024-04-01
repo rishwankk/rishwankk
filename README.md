@@ -1,7 +1,4 @@
 
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/![Header](./your-header-image-name.png)" alt="my banner"></a>
-</p>
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Rishwan</a> 👋
