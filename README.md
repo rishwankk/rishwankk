@@ -11,7 +11,7 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 👨‍💻 MERN stack enthusiast on a coding journey. Building web applications, solving problems, and staying up-to-date with the latest in tech. Let's create something amazing together! 🚀
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-- ✉️  You can contact me at [roshwan063@gmail.com](mailto:rishwan063@gmail.com)
+- ✉️  You can contact me at [rishwan063@gmail.com](mailto:rishwan063@gmail.com)
 - 🧠  I'm learning React 
 - 🤝  I'm open to collaborating on Web Development Projects Open, Source Contributions
 ### 🤝 Connect with me:
@@ -46,7 +46,7 @@ I love the entire process of developing creative websites. I love the challenge 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  
  
 </div>
 
