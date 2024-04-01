@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Shaamiilll/Shaamiilll/main/images/SHAML.png" alt="my banner"></a>
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Rishwan/Rishwan/main/images/Rishwan.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
