@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Rishwan</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
@@ -7,9 +6,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/__rishwan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__rishwan__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/rishwank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rishwank" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishwank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishwank" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/rishwan.richu.3?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rishwan.richu.3?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_rishwan_?igsh=otg4ndzsbxhxymtj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_rishwan_?igsh=otg4ndzsbxhxymtj" height="30" width="40" /></a>
+<a href="https://instagram.com/h_rishwan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_rishwan_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@__rishwan__?si=mhiwvsutt8mzlyqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@__rishwan__?si=mhiwvsutt8mzlyqi" height="30" width="40" /></a>
 </p>
 
