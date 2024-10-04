@@ -1,56 +1,41 @@
+# Hi there, I'm Rishwan! 👋
 
+I'm a **Full Stack Developer** specializing in the MERN stack. I'm passionate about building scalable, responsive web applications and delivering high-quality solutions that enhance user engagement and experience.
 
-<h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Rishwan</a> 👋
-</h3>
+## 🌱 Currently Learning
+- NestJS for backend development
 
-<h2 align="center">
-I'm a Full-Stack Web Developer 💻 and Designer 🎨!
-</h2> 
+## 🔧 Technologies & Tools
+- **Languages**: JavaScript, TypeScript
+- **Front-End**: React, Redux, HTML, CSS, Tailwind CSS, JSX
+- **Back-End**: Node.js, Express.js, MongoDB, JWT
+- **Dev Tools**: Git, Figma, Moon Modeller, Postman
+- **Cloud & Hosting**: AWS EC2, Vercel, Netlify, Render
 
-👨‍💻 MERN stack enthusiast on a coding journey. Building web applications, solving problems, and staying up-to-date with the latest in tech. Let's create something amazing together! 🚀
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+## 🛠️ Projects
 
-- ✉️  You can contact me at [rishwan063@gmail.com](mailto:rishwan063@gmail.com)
-- 🧠  I'm learning React 
-- 🤝  I'm open to collaborating on Web Development Projects Open, Source Contributions
-### 🤝 Connect with me:
+### [ShopWise E-Commerce](https://github.com/rishwankk/ShopWise_Ecommerce_website)  
+A scalable e-commerce platform with secure hosting on AWS, payment processing via Stripe, and features like shopping cart, wishlist, coupon system, order tracking, and more.
+- **Tech**: MongoDB, Express, Stripe, AWS, Tailwind CSS
+- **Features**: User authentication, admin dashboard with data visualization (Chart.js)
 
-<a href="https://www.linkedin.com/in/rishwank/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/__rishwan__/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://twitter.com/__rishwan__"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://www.youtube.com/channel/UCQbWaVM-FU8I_ubHffxLHzg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="__rishwan__"  width="21px" /></a>
+### [Netflix Clone with AI-Powered Suggestions](https://github.com/rishwankk/netflix-gpt)  
+A Netflix UI clone featuring Gemini AI for movie recommendations, real-time movie data with TMDB API, and Firebase authentication for secure user accounts.
+- **Tech**: React, Redux, Tailwind, TMDB API, Gemini AI API, Firebase
 
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+### [YouTube Clone](https://github.com/rishwankk/youtube-clone)  
+A YouTube-like interface with powerful search capabilities, real-time chat, and N-level nested comments to organize user interactions.
+- **Tech**: React, Redux, YouTube Data API, Tailwind, JSX
 
-## 🔭 I'm currently working on
+## 📈 GitHub Stats 📊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishwankk&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishwankk&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rishwankk&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=rishwankk&color=brightgreen)
+![Rishwan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishwankk&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rishwankk&theme=radical)
 
-
-- Ecommerce App (Node.js)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- 
-
-## 🌱 I'm currently learning
-
-- 📱 React js
-
-
-## 💼 Technical Skills
-<div>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  
- 
-</div>
-
-</br>
-
-
-
+## 📫 Connect with Me
+- **LinkedIn**: [linkedin.com/in/rishwank](https://www.linkedin.com/in/rishwank)
+- **GitHub**: [github.com/rishwankk](https://github.com/rishwankk)
+- **Email**: rishwan063@gmail.com
